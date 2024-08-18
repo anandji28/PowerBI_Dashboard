@@ -81,10 +81,7 @@ Before you begin, ensure you have the following software installed:
 
 Contributions to this project are welcome. If you have suggestions for improvements or additional features, please feel free to submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
-For questions or support, please contact [Anand Ji Parasar] at [upadhyayanandji@gmail.com].
+For questions or support, please contact Anand Ji Parasar at upadhyayanandji@gmail.com.
